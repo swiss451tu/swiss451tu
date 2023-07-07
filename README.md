@@ -1,6 +1,6 @@
 # Grüezi Leute! ʕ•̫͡•ʕ*̫͡*ʕ•͓͡•ʔ-̫͡-ʕ•̫͡•ʔ*̫͡*ʔ-̫͡-ʔ
 <div align="center">
-  <img src="https://github.com/swiss451tu/SherilWebstern/blob/main/ascii-git.jpg"width="1000" height="440"/>
+  <img src="https://github.com/swiss451tu/swiss451tu/blob/main/ascii-git.jpg"width="1000" height="440"/>
 </div>   
 
 ---------------
