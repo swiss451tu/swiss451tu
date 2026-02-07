@@ -7,7 +7,7 @@
 
 ### About my Github ⛧:
 
-☣ This Github will be devoted mostly for Malware Analysis and Reverse Engineering
+☣ ML Engineering, LLM Workflows (Prompt/Agent Prototyping)<!-- This Github will be devoted mostly for Malware Analysis and Reverse Engineering** -->
 
 
 ---------------
@@ -28,7 +28,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swiss451tu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### My Certificates:
 _Coming Soon_
