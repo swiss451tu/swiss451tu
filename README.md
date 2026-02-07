@@ -17,7 +17,7 @@
 <p align="center-left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,c,cpp,py,java" /> <br>
-    <img src="https://skillicons.dev/icons?i=atom,vim,qt,idea,visualstudio,vscode,replit,linux" /> <br>
+    <img src="https://skillicons.dev/icons?i=atom,vim,qt,idea,visualstudio,vscode,replit,linux,mysql,sqlite" /> <br>
      <!---<img src="https://skillicons.dev/icons?i=bash,bsd,plan9,docker,powershell" /> <br> -->
      <img src="https://skillicons.dev/icons?i=figma,ai,ps" /> <br>
     
